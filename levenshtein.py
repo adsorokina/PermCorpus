@@ -38,7 +38,7 @@ def short_load_lexemes(lex_file):
     print("Load lexemes from", lex_file)
     print(len(lexemes))
     
-    for lex in lexemes[]:
+    for lex in lexemes:
         mLex = re.search(u' lex: *([^\r\n ]+)', lex, flags=re.DOTALL)
         if mLex is None:
             continue
