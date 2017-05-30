@@ -1,0 +1,1117 @@
+﻿-lexeme
+ lex: муртса
+ stem: муртса.
+ gramm: PART
+ paradigm: Empty
+ trans_ru:  едва, еле
+
+-lexeme
+ lex: муртса-муртса
+ stem: муртса-муртса.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: еле-еле; едва-едва
+
+-lexeme
+ lex:  абу
+ stem: абу.
+ gramm: PART,neg
+ paradigm: Empty
+ trans_ru: не
+
+-lexeme
+ lex: бара
+ stem: бара.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: -то, уж, небось, только
+
+-lexeme
+ lex: бласлӧ
+ stem: бласлӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru:  употребляется лишь в составе выражений: бласлӧ кристос "с богом"
+
+-lexeme
+ lex: буди
+ stem: буди.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: должно быть, видно
+
+-lexeme
+ lex: будичи
+ stem: будичи.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: должно быть, видно
+
+-lexeme
+ lex: буретш
+ stem: буретш.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: как раз
+
+-lexeme
+ lex: быдӧн
+ stem: быдӧн.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: все
+
+-lexeme
+ lex: быттьӧ
+ stem: быттьӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: будто
+
+-lexeme
+ lex: быттьӧкӧ
+ stem: быттьӧкӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: будто
+
+-lexeme
+ lex: быттьӧкӧнӧсь
+ stem: быттьӧкӧнӧсь.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: будто
+
+-lexeme
+ lex: быть
+ stem: быть.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: неизбежно, неминуемо
+
+-lexeme
+ lex: вай
+ stem: вай.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: повел. дай, давай
+
+-lexeme
+ lex: вед
+ stem: вед.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ведь
+ 
+
+-lexeme
+ lex: весиг
+ stem: весиг.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: даже
+
+-lexeme
+ lex: весигтӧ
+ stem: весигтӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: даже
+
+-lexeme
+ lex: видзӧд
+ stem: видзӧд.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ишь
+
+-lexeme
+ lex: вӧлись
+ stem: вӧлись.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: только
+
+-lexeme
+ lex: выйӧдз
+ stem: выйӧдз.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: даже
+
+-lexeme
+ lex: вӧд
+ stem: вӧд.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ведь
+
+-lexeme
+ lex:  да
+ stem: да.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: да
+
+-lexeme
+ lex: давай
+ stem: давай.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: давай, давайте
+
+-lexeme
+ lex: дай
+ stem: дай.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: да и
+
+-lexeme
+ lex: дак
+ stem: дак.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: так вот, слушайте дальше
+
+-lexeme
+ lex: ещӧ
+ stem: ещӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ещё
+
+-lexeme
+ lex: жӧ
+ stem: жӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: же
+
+-lexeme
+ lex: инӧ
+ stem: инӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: тогда, в таком случае
+
+-lexeme
+ lex: инӧсь
+ stem: инӧсь.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: тогда, в таком случае (инӧ)
+
+-lexeme
+ lex: кӧть
+ stem: кӧть.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: хоть
+
+-lexeme
+ lex: чайта
+ stem: чайта.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: вводн. сл. вероятно, надеюсь
+
+-lexeme
+ lex: кыдзиджык
+ stem: кыдзиджык.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: как именно
+
+-lexeme
+ lex:  куш
+ stem: куш.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: только
+
+-lexeme
+ lex: ладнӧ
+ stem: ладнӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ладно
+
+-lexeme
+ lex: ли
+ stem: ли.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ли
+
+-lexeme
+ lex:  мед
+ stem: мед.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: пусть
+
+-lexeme
+ lex: медлы
+ stem: медлы.
+ gramm: PART,dat
+ paradigm: Empty
+ trans_ru: пусть
+
+-lexeme
+ lex: медлыты
+ stem: медлыты.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: пусть
+
+-lexeme
+ lex: медлытӧ
+ stem: медлытӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: пусть
+
+-lexeme
+ lex: медся
+ stem: медся.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: самый
+
+-lexeme
+ lex: медлытыкӧ
+ stem: медлытыкӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: лишь бы
+ 
+
+-lexeme
+ lex:  медтыкӧ
+ stem: медтыкӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: лишь бы
+
+-lexeme
+ lex: медтӧ
+ stem: медтӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: пусть-ка, дай-ка, вот
+
+-lexeme
+ lex: медым
+ stem: медым.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: пусть
+
+-lexeme
+ lex: медъя
+ stem: медъя.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ну и пусть
+
+-lexeme
+ lex: мися
+ stem: мися.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: мол 
+
+-lexeme
+ lex: мунтӧ
+ stem: мунтӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: поди ты
+
+-lexeme
+ lex: мӧй
+ stem: мӧй.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: вопр. разве
+
+-lexeme
+ lex: не
+ stem: не.
+ gramm: PART,neg
+ paradigm: Empty
+ trans_ru: нет
+
+-lexeme
+ lex: немас
+ stem: немас.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: всё-таки, тоже
+
+-lexeme
+ lex: неужели
+ stem: неужели.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: неужели
+
+-lexeme
+ lex: ни
+ stem: ни.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ни 
+
+-lexeme
+ lex: нин
+ stem: нин.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: уже
+
+-lexeme
+ lex: нисьӧ
+ stem: нисьӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: не то
+
+-lexeme
+ lex: нӧ
+ stem: нӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: же
+
+-lexeme
+ lex: но
+ stem: но.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ну
+
+-lexeme
+ lex: прӧстӧ
+ stem: прӧстӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: просто
+
+-lexeme
+ lex: прӧста
+ stem: прӧста.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: даром
+
+-lexeme
+ lex: пӧ
+ stem: пӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: мол, дескать
+
+-lexeme
+ lex: пӧжалуй
+ stem: пӧжалуй.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: может быть, пожалуй
+
+-lexeme
+ lex: пӧжалуйста
+ stem: пӧжалуйста.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: пожалуйста
+
+-lexeme
+ lex: со
+ stem: со.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: указ. вот
+
+-lexeme
+ lex: сьӧтаки
+ stem: сьӧтаки.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: всё же, тем не менее
+
+-lexeme
+ lex: та
+ stem: та.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: оказывается
+
+-lexeme
+ lex: тай
+ stem: тай.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: оказывается
+
+-lexeme
+ lex: тайкӧ
+ stem: тайкӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: едва, чуть
+
+-lexeme
+ lex: то
+ stem: то.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: указ. вот
+
+-lexeme
+ lex: тожӧ
+ stem: тожӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: тоже
+
+-lexeme
+ lex: толькӧ
+ stem: толькӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: только
+ 
+
+-lexeme
+ lex: тон
+ stem: тон.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: небось, уж
+
+-lexeme
+ lex: тонӧ
+ stem: тонӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: вот, вот там
+
+-lexeme
+ lex:  тыкӧ
+ stem: тыкӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: лишь
+
+-lexeme
+ lex: тӧкӧтьӧ
+ stem: тӧкӧтьӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: едва, чуть
+
+-lexeme
+ lex: часлы
+ stem: часлы.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: погоди разг.
+
+-lexeme
+ lex: часлыв
+ stem: часлыв.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: погоди разг.
+
+-lexeme
+ lex: чурки-буди
+ stem: чурки-буди.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: слава богу; не во вред будь сказано
+
+-lexeme
+ lex: чӧв
+ stem: чӧв.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: что ты, неужели
+
+-lexeme
+ lex: чӧвлы
+ stem: чӧвлы.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: подожди, погоди, обожди, постой
+
+-lexeme
+ lex: ыш
+ stem: ыш.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ишь
+
+-lexeme
+ lex: ыштӧ
+ stem: ыштӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: что, якобы, как будто
+
+-lexeme
+ lex: энлыв
+ stem: энлыв.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: погоди
+
+-lexeme
+ lex: эськӧ
+ stem: эськӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: бы, же, и
+
+-lexeme
+ lex: эськӧн
+ stem: эськӧн.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: бы, же, и
+
+-lexeme
+ lex:  ӧд
+ stem: ӧд.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ведь
+
+-lexeme
+ lex: ӧдвакӧ
+ stem: ӧдвакӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: вряд ли
+
+-lexeme
+ lex: ӧнжа
+ stem: ӧнжа.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: диал. разг. как это;
+
+-lexeme
+ lex: ӧ
+ stem: ӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: част. вопр. ли
+
+-lexeme
+ lex: ӧмӧй
+ stem: ӧмӧй.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: разве
+
+-lexeme
+ lex: а
+ stem: а.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: а
+
+-lexeme
+ lex:  кӧ
+ stem: кӧ.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: если
+
+-lexeme
+ lex: и
+ stem: и.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: и
+ 
+
+-lexeme
+ lex: али
+ stem: али.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: или, неужели, разве
+
+-lexeme
+ lex: коли
+ stem: коли.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: коли
+
+-lexeme
+ lex: зато
+ stem: зато.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: зато
+
+-lexeme
+ lex: ыштӧ
+ stem: ыштӧ.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: что, якобы
+
+-lexeme
+ lex: либӧ
+ stem: либӧ.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: или
+
+-lexeme
+ lex: на
+ stem: на.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: 1. част. на; 2. част. ещё; 3. кратк. ф. от найö
+
+-lexeme
+ lex: сідзи
+ stem: сідз.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: так
+
+-lexeme
+ lex: сідзи
+ stem: сідзи.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: так
+
+-lexeme
+ lex: тадзи
+ stem: тадзи.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: так
+
+-lexeme
+ lex: тадзи
+ stem: тадз.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: так
+
+-lexeme
+ lex: нӧшта
+ stem: нӧшта.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ещё
+
+-lexeme
+ lex: дінӧд
+ stem: дінӧд.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: около, возле
+
+-lexeme
+ lex: сплош
+ stem: сплош.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: сплошь
+
+-lexeme
+ lex: ӧдва
+ stem: ӧдва.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: едва
+
+-lexeme
+ lex: небось
+ stem: небось.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: небось
+
+-lexeme
+ lex: ӧдва-ӧдва
+ stem: ӧдва-ӧдва.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: едва-едва
+
+-lexeme
+ lex: срӧду
+ stem: срӧду.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: сроду
+
+-lexeme
+ lex: мында
+ stem: мында.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: около
+
+-lexeme
+ lex: шнич
+ stem: шнич.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: сплошь, совсем
+
+-lexeme
+ lex: сідзжӧ
+ stem: сідзжӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: также
+
+-lexeme
+ lex: сідзкӧ
+ stem: сідзкӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: 1. тогда 2. значит, следовательно
+
+-lexeme
+ lex: чав
+ stem: чав.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: совсем, сплошь
+
+-lexeme
+ lex: тырмас
+ stem: тырмас.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: полно
+
+-lexeme
+ lex: кындзи
+ stem: кындзи.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: кроме
+
+-lexeme
+ lex: мысти
+ stem: мысти.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: через
+
+-lexeme
+ lex: костысь
+ stem: костысь.
+ gramm: PART,el
+ paradigm: Empty
+ trans_ru: из, из-под
+
+-lexeme
+ lex: йылӧ
+ stem: йылӧ.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: на
+
+-lexeme
+ lex: йылӧдз
+ stem: йылӧдз.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: до
+
+-lexeme
+ lex: йывті
+ stem: йывті.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: над
+
+-lexeme
+ lex: водз
+ stem: водз.
+ gramm: N,n_rel
+ paradigm: Noun-num-consonant
+ trans_ru: перёд, передняя часть || передний
+
+-lexeme
+ lex: водзладор
+ stem: водзладор.
+ gramm: N,n_rel
+ paradigm: Noun-num-consonant
+ trans_ru: перёд
+
+-lexeme
+ lex: выйысь
+ stem: выйысь.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: за, из-за
+
+-lexeme
+ lex: вевдорті
+ stem: вевдорті.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: по-над
+
+-lexeme
+ lex: туйӧ
+ stem: туйӧ.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: за кого-что-л.
+
+-lexeme
+ lex: ӧприч
+ stem: ӧприч.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: кроме
+
+-lexeme
+ lex: шогысь
+ stem: шогысь.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: от, из-за чего-л
+
+-lexeme
+ lex: выяысь
+ stem: stem.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: за, с (с места, находящегося на расстоянии)
+
+-lexeme
+ lex: видзӧдтӧ
+ stem: видзӧдтӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ишь
+
+-lexeme
+ lex: выйӧдзтӧ
+ stem: выйӧдзтӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: даже
+
+-lexeme
+ lex: выя
+ stem: выя.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: даже
+
+-lexeme
+ lex: вӧлисти
+ stem: вӧлисти.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: только
+
+-lexeme
+ lex: икӧтапызь
+ stem: икӧтапызь.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: бран. чёрт побери
+
+-lexeme
+ lex: инӧсь
+ stem: инӧсь.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: тогда, в таком случае
+
+-lexeme
+ lex: кыдзиджык
+ stem: кыдзджык.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: как именно
+
+-lexeme
+ lex: либӧнӧсь
+ stem: либӧнӧсь.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: или
+
+-lexeme
+ lex: медсясӧ
+ stem: медсясӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: самый
+
+-lexeme
+ lex: мокой
+ stem: мокой.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: бран. чёрт
+
+-lexeme
+ lex: муртсысь
+ stem: муртсысь.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: едва, еле
+
+-lexeme
+ lex: мыйся
+ stem: мыйся.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: что за
+
+-lexeme
+ lex: налӧй
+ stem: налӧй.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: на
+
+-lexeme
+ lex: нетӧштӧ
+ stem: нетӧштӧ.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: вместо того, чтобы
+
+-lexeme
+ lex: нолтӧсь
+ stem: нолтӧсь.
+ gramm: PART 
+ paradigm: Empty
+ trans_ru: ну-ка
+
+-lexeme
+ lex: нолы
+ stem: нолы.
+ gramm: PART 
+ paradigm: Empty
+ trans_ru: ну-ка
+
+-lexeme
+ lex: нолӧй
+ stem: нолӧй.
+ gramm: PART 
+ paradigm: Empty
+ trans_ru: ну-ка!
+
+-lexeme
+ lex: польӧ
+ stem: польӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: возглас, которым подзывают поросёнка
+
+-lexeme
+ lex: страшнӧ
+ stem: страшнӧ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: очень, крайне, весьма
+
+-lexeme
+ lex: ыштӧкӧ
+ stem: ыштӧкӧ.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: что, якобы
+
+-lexeme
+ lex: эгкодь
+ stem: эгкодь.
+ gramm: PART,neg
+ paradigm: Empty
+ trans_ru: не так, немного не
+
+-lexeme
+ lex: кодь
+ stem: кодь.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: как будто, похожий
+
+-lexeme
+ lex: ӧдлы
+ stem: ӧдлы.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: видишь
+
+-lexeme
+ lex: ӧнӧдз
+ stem: ӧнӧдз.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: до сих пор
+
+-lexeme
+ lex: ӧти-мӧдтор
+ stem: ӧти-мӧдтор.
+ gramm: CNJ 
+ paradigm: Empty
+ trans_ru: то да другое
+
+-lexeme
+ lex: кежлӧ
+ stem: кежлӧ.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: на (какое-либо время), к (какому-либо сроку)
+
+-lexeme
+ lex: дырйи
+ stem: дырйи.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: при ком-либо (в присутствии кого-либо), во время чего-либо
+
+-lexeme
+ lex: моз
+ stem: моз.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: как, подобно, почти
+
+-lexeme
+ lex: вӧсна
+ stem: вӧсна.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: 1. ради кого-чего-либо 2. о, об чём-либо 3. из-за кого-чего-либо 4. вследствие, по причине чего-либо
+
+-lexeme
+ lex: пыдди
+ stem: пыдди.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: 1. вместо 2. в качестве 3. для чего-либо, ради 4. зато
+
+-lexeme
+ lex: ув
+ stem: ув.|ул.
+ gramm: POST
+ paradigm: Noun-num-v_l
+ trans_ru: на (какое-либо время), к (какому-либо сроку)
+

@@ -1,0 +1,273 @@
+﻿-lexeme
+ lex: быз
+ stem: быз.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: подражание плеску воды
+
+-lexeme
+ lex: герч
+ stem: герч.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: кря! звукоподр.
+
+-lexeme
+ lex: голь
+ stem: голь.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: подражание звяканью металла
+
+-lexeme
+ lex: гольс
+ stem: гольс.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: подражание звяканью металла
+
+-lexeme
+ lex: гудж
+ stem: гудж.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: гуҗ подражание скрежету  
+
+-lexeme
+ lex: гур
+ stem: гур.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru:  подражание громкому тарахтению, скрипу
+
+-lexeme
+ lex: дзиз
+ stem: дзиз.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: звукоподр. жужжание 
+
+-lexeme
+ lex: тарк
+ stem: тарк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: стук
+
+-lexeme
+ lex: брут
+ stem: брут.
+ gramm: IMIT 
+ paradigm: Empty
+ trans_ru: бух, бултых
+
+-lexeme
+ lex: бульс-больс
+ stem: бульс-больс.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: изобр. буль-буль
+
+-lexeme
+ lex: бырс
+ stem: бырс
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: изобр. неожиданно, вдруг
+
+-lexeme
+ lex: варс
+ stem: варс.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: изобр. с хрустом 
+
+-lexeme
+ lex: варч
+ stem: варч.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: изобр. с хрустом 
+
+-lexeme
+ lex: гальс-гальс
+ stem: гальс-гальс.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: лязг
+
+-lexeme
+ lex: гиль-голь
+ stem: гиль-голь.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: бряк, звяк
+
+-lexeme
+ lex: грым-грам
+ stem: грым-грам.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: подражание грохоту, стуку
+
+-lexeme
+ lex: грым-йирк
+ stem: грым-йирк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: подражание грохоту, стуку
+
+-lexeme
+ lex: гульс-гольс
+ stem: гульс-гольс.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: бряк, звяк
+
+-lexeme
+ lex: дувк-довк
+ stem: дувк-довк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru:  шатаясь, раскачиваясь
+
+-lexeme
+ lex: жбырк
+ stem: жбырк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: звукоподражание шуму крыльев птиц при взлёте
+
+-lexeme
+ lex: зиль
+ stem: зиль.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: подражание звону стекла, металла 
+
+-lexeme
+ lex: зильк-зёльк
+ stem: зильк-зёльк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: звяк-бряк
+
+-lexeme
+ lex: зури-зари
+ stem: зури-зари.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: с шумом, с треском
+
+-lexeme
+ lex: зурк-зӧрк
+ stem: зурк-зӧрк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: с шумом, с треском
+
+-lexeme
+ lex: катш
+ stem: катш.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: тук, стук
+
+-lexeme
+ lex: киль-кильк
+ stem: киль-кильк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: хи-хи
+
+-lexeme
+ lex: кулс-колс
+ stem: кулс-колс.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: стук! щёлк!
+
+-lexeme
+ lex: курч-карч
+ stem: курч-карч.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: хруст
+
+-lexeme
+ lex: руз-раз
+ stem: руз-раз.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: вразброс
+
+-lexeme
+ lex: рук-рукӧн
+ stem: рук-рукӧн.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: навзрыд
+
+-lexeme
+ lex: силь
+ stem: силь.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: возглас, которым подзывают кур
+
+-lexeme
+ lex: сюр-сяр
+ stem: сюр-сярк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: звукоподр. трах-тарарах
+
+-lexeme
+ lex: татш
+ stem: татш.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: тук-тук
+
+-lexeme
+ lex: тинь
+ stem: тинь.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: динь
+
+-lexeme
+ lex: тюв
+ stem: тюв.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: шмыг
+
+-lexeme
+ lex: ур-вар
+ stem: ур-вар.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: шум
+
+-lexeme
+ lex: шпуч-шпач
+ stem: шпуч-шпач.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: хлоп-хлоп
+
+-lexeme
+ lex: шур-шар
+ stem: шур-шар.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: мгновенно
+
+-lexeme
+ lex: шур-шар
+ stem: шурк-шарк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: мгновенно
+

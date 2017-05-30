@@ -1,0 +1,433 @@
+﻿-lexeme
+ lex: Сыктывкар
+ stem: сыктывкар.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Сыктывкар
+
+-lexeme
+ lex: Иван
+ stem: иван.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Иван
+
+-lexeme
+ lex: Иванович
+ stem: иванович.
+ gramm: N,patrn
+ paradigm: Noun-num-ch
+ trans_ru: Иванович
+
+-lexeme
+ lex: Ивановна
+ stem: ивановна.
+ gramm: N,patrn
+ paradigm: Noun-num-vowel
+ trans_ru: Ивановна
+
+-lexeme
+ lex: Сергей
+ stem: сергей.|серге.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Сергей
+
+-lexeme
+ lex: Сергеевич
+ stem: сергеевич.
+ gramm: N,patrn
+ paradigm: Noun-num-consonant
+ trans_ru: Сергеевич
+
+-lexeme
+ lex: Сергеевна
+ stem: сергеевна.
+ gramm: N,patrn
+ paradigm: Noun-num-vowel
+ trans_ru: Сергеевна
+
+-lexeme
+ lex: Александр
+ stem: александр.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Александр
+
+-lexeme
+ lex: Александрович
+ stem: александрович.
+ gramm: N,patrn
+ paradigm: Noun-num-ch
+ trans_ru: Александрович
+
+-lexeme
+ lex: Александровна
+ stem: александровна.
+ gramm: N,patrn
+ paradigm: Noun-num-vowel
+ trans_ru: Александровна
+
+-lexeme
+ lex: Николай
+ stem: николай.|никола.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Николай
+
+-lexeme
+ lex: Николаевич
+ stem: николаевич.
+ gramm: N,patrn
+ paradigm: Noun-num-ch
+ trans_ru: Николаевич
+
+-lexeme
+ lex: Николаевна
+ stem: николаевна.
+ gramm: N,patrn
+ paradigm: Noun-num-vowel
+ trans_ru: Николаевна
+
+-lexeme
+ lex: Владимир
+ stem: владимир.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Владимир
+
+-lexeme
+ lex: Владимирович
+ stem: владимирович.
+ gramm: N,patrn
+ paradigm: Noun-num-ch
+ trans_ru: Владимирович
+
+-lexeme
+ lex: Владимировна
+ stem: владимировна.
+ gramm: N,patrn
+ paradigm: Noun-num-vowel
+ trans_ru: Владимировна
+
+-lexeme
+ lex: Василий
+ stem: василий.|васили.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Василий
+
+-lexeme
+ lex: Васильевич
+ stem: васильевич.
+ gramm: N,patrn
+ paradigm: Noun-num-ch
+ trans_ru: Васильевич
+
+-lexeme
+ lex: Васильевна
+ stem: васильевна.
+ gramm: N,patrn
+ paradigm: Noun-num-vowel
+ trans_ru: Васильевна
+
+-lexeme
+ lex: Надежда
+ stem: надежда.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Надежда
+
+-lexeme
+ lex: Елена
+ stem: елена.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Елена
+
+-lexeme
+ lex: Татьяна
+ stem: татьяна.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Татьяна
+
+-lexeme
+ lex: Михаил
+ stem: михаил.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Михаил
+
+-lexeme
+ lex: Алексей
+ stem: алексей.|алексе.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Алексей
+
+-lexeme
+ lex: Любовь
+ stem: любовь.|любов.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Любовь
+
+-lexeme
+ lex: Анна
+ stem: анна.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Анна
+
+-lexeme
+ lex: Мария
+ stem: мария.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Мария
+
+-lexeme
+ lex: Ирина
+ stem: ирина.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Ирина
+
+-lexeme
+ lex: Марина
+ stem: марина.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Марина
+
+-lexeme
+ lex: Екатерина
+ stem: екатерина.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Екатерина
+
+-lexeme
+ lex: Лариса
+ stem: лариса.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Лариса
+
+-lexeme
+ lex: Алла
+ stem: алла.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Алла
+
+-lexeme
+ lex: Зоя
+ stem: зоя.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Зоя
+
+-lexeme
+ lex: Наталья
+ stem: наталья.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Наталья
+
+-lexeme
+ lex: Юлия
+ stem: юлия.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Юлия
+
+-lexeme
+ lex: Оля
+ stem: оля.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Оля
+
+-lexeme
+ lex: Катя
+ stem: катя.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Катя
+
+-lexeme
+ lex: Маша
+ stem: маша.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Маша
+
+-lexeme
+ lex: Лена
+ stem: лена.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Лена
+
+-lexeme
+ lex: Зинаида
+ stem: зинаида.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Зинаида
+
+-lexeme
+ lex: Тамара
+ stem: тамара.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Тамара
+
+-lexeme
+ lex: Игорь
+ stem: игорь.|игор.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Игорь
+
+-lexeme
+ lex: Дмитрий
+ stem: дмитрий.|дмитри.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Дмитрий
+
+-lexeme
+ lex: Юрий
+ stem: юрий.|юри.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Юрий
+
+-lexeme
+ lex: Геннадий
+ stem: геннадий.|геннади.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Геннадий
+
+-lexeme
+ lex: Валерий
+ stem: валерий.|валери.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Валерий
+
+-lexeme
+ lex: Евгений
+ stem: евгений.|евгени.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Евгений
+
+-lexeme
+ lex: Григорий
+ stem: григорий.|григори.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Григорий
+
+-lexeme
+ lex: Андрей
+ stem: андрей.|андре.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Андрей
+
+-lexeme
+ lex: Анатолий
+ stem: анатолий.|анатоли.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Анатолий
+
+-lexeme
+ lex: Степан
+ stem: степан.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Анатолий
+
+-lexeme
+ lex: Пётр
+ stem: пётр.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Пётр
+
+-lexeme
+ lex: Светлана
+ stem: светлана.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Светлана
+
+-lexeme
+ lex: Людмила
+ stem: людмила.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Людмила
+
+-lexeme
+ lex: Россия
+ stem: россия.
+ gramm: N,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Россия
+
+-lexeme
+ lex: Вячеслав
+ stem: вячеслав.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Вячеслав
+
+-lexeme
+ lex: Галина
+ stem: галина.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Галина
+
+-lexeme
+ lex: Москва
+ stem: москва.
+ gramm: N,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Москва
+
+-lexeme
+ lex: Печора
+ stem: печора.
+ gramm: N,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Печора
+
+-lexeme
+ lex: Печӧра
+ stem: печӧра.
+ gramm: N,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Печора
+
+-lexeme
+ lex: Сыктыв
+ stem: сыктыв.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Сысола
+
+-lexeme
+ lex: Сыктывдін
+ stem: сыктывдін.
+ gramm: ADJ,topn
+ paradigm: connect_adjectives
+

@@ -1,0 +1,1163 @@
+﻿-lexeme
+ lex: ме
+ stem: ме.
+ gramm: PRO,nom,sg
+ paradigm: Empty
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: менам.
+ gramm: PRO,gen,sg
+ paradigm: Empty
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: менсьым.
+ gramm: PRO,abl,sg
+ paradigm: Empty
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: меным.
+ gramm: PRO,dat,sg
+ paradigm: Empty
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: менӧ.
+ gramm: PRO,acc,sg
+ paradigm: Empty
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: метӧг.
+ gramm: PRO,car,sg
+ paradigm: Empty
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: мекӧд.
+ gramm: PRO,com,sg
+ paradigm: Empty
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: меын.
+ gramm: PRO,iness,sg
+ paradigm: Empty
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: меӧн.
+ gramm: PRO,ins,sg
+ paradigm: Empty
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: меысь.
+ gramm: PRO,el,sg
+ paradigm: Empty
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: мелань.
+ gramm: PRO,app,sg
+ paradigm: Empty
+ trans_ru: я
+
+-lexeme
+ lex: ми
+ stem: ми.
+ gramm: PRO,nom,pl
+ paradigm: Empty
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянӧс.
+ gramm: PRO,acc,pl
+ paradigm: Empty
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миян.
+ gramm: PRO,gen,pl
+ paradigm: Empty
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянлысь.
+ gramm: PRO,abl,pl
+ paradigm: Empty
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянлы.
+ gramm: PRO,dat,pl
+ paradigm: Empty
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянтӧг.
+ gramm: PRO,car,pl
+ paradigm: Empty
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянкӧд.
+ gramm: PRO,com,pl
+ paradigm: Empty
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянӧн.
+ gramm: PRO,ins,pl
+ paradigm: Empty
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянлань.
+ gramm: PRO,app,pl
+ paradigm: Empty
+ trans_ru: мы
+
+-lexeme
+ lex: тэ
+ stem: тэ.
+ gramm: PRO,nom,sg
+ paradigm: Empty
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэнӧ.
+ gramm: PRO,acc,sg
+ paradigm: Empty
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэнад.
+ gramm: PRO,gen,sg
+ paradigm: Empty
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэнсьыд.
+ gramm: PRO,abl,sg
+ paradigm: Empty
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэныд.
+ gramm: PRO,dat,sg
+ paradigm: Empty
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэтӧг.
+ gramm: PRO,car,sg
+ paradigm: Empty
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэлань.
+ gramm: PRO,app,sg
+ paradigm: Empty
+ trans_ru: ты
+
+-lexeme
+ lex: ті
+ stem: ті.
+ gramm: PRO,nom,pl
+ paradigm: Empty
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянӧс.
+ gramm: PRO,acc,pl
+ paradigm: Empty
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіян.
+ gramm: PRO,gen,pl
+ paradigm: Empty
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянлысь.
+ gramm: PRO,abl,pl
+ paradigm: Empty
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянлы.
+ gramm: PRO,dat,pl
+ paradigm: Empty
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянкӧд.
+ gramm: PRO,com,pl
+ paradigm: Empty
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянтӧг.
+ gramm: PRO,car,pl
+ paradigm: Empty
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянӧн.
+ gramm: PRO,ins,pl
+ paradigm: Empty
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянлань.
+ gramm: PRO,app,pl
+ paradigm: Empty
+ trans_ru: вы
+
+-lexeme
+ lex: сійӧ
+ stem: сійӧ.
+ gramm: PRO,nom,sg
+ paradigm: Empty
+ trans_ru: он/она/оно
+
+-lexeme
+ lex: сійӧ
+ stem: сы.
+ gramm: PRO,nom,sg
+ paradigm: Empty
+ trans_ru: он/она/оно, кр. ф. сійӧ
+
+-lexeme
+ lex: сійӧ
+ stem: сылӧн.
+ gramm: PRO,gen,sg
+ paradigm: Empty
+ trans_ru: он/она/оно
+
+-lexeme
+ lex: сійӧ
+ stem: сылысь.
+ gramm: PRO,abl,sg
+ paradigm: Empty
+ trans_ru: он/она/оно
+
+-lexeme
+ lex: сійӧ
+ stem: сылы.
+ gramm: PRO,dat,sg
+ paradigm: Empty
+ trans_ru: он/она/оно
+ 
+
+-lexeme
+ lex: сійӧ
+ stem: сійӧс.
+ gramm: PRO,acc,sg
+ paradigm: Empty
+ trans_ru: он/она/оно
+
+-lexeme
+ lex: сійӧ
+ stem: сыӧн.
+ gramm: PRO,ins,sg
+ paradigm: Empty
+ trans_ru: он/она/оно
+
+-lexeme
+ lex: сійӧ
+ stem: сікӧд.//сыкӧд.
+ gramm: PRO,com,sg
+ paradigm: Empty
+ trans_ru: он/она/оно
+
+-lexeme
+ lex: сійӧ
+ stem: сітӧг.
+ gramm: PRO,car,sg
+ paradigm: Empty
+ trans_ru: он/она/оно
+
+-lexeme
+ lex: сійӧ
+ stem: сыын.
+ gramm: PRO,loс,sg
+ paradigm: Empty
+ trans_ru: он/она/оно
+
+-lexeme
+ lex: сійӧ
+ stem: сылань.
+ gramm: PRO,app,sg
+ paradigm: Empty
+ trans_ru: он/она/оно
+
+-lexeme
+ lex: найӧ
+ stem: найӧ.
+ gramm: PRO,nom,sg
+ paradigm: Empty
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: налӧн.
+ gramm: PRO,gen,sg
+ paradigm: Empty
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: налысь.
+ gramm: PRO,abl,sg
+ paradigm: Empty
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: налы.
+ gramm: PRO,dat,sg
+ paradigm: Empty
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: найӧс.
+ gramm: PRO,acc,sg
+ paradigm: Empty
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: наӧн.
+ gramm: PRO,ins,sg
+ paradigm: Empty
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: натӧг.
+ gramm: PRO,car,sg
+ paradigm: Empty
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: накӧд.
+ gramm: PRO,com,sg
+ paradigm: Empty
+ trans_ru: они
+
+-lexeme
+ lex: кутшӧм
+ stem: кутшӧм.
+ gramm: PRO
+ paradigm: connect_adjectives
+ trans_ru: какой
+
+-lexeme
+ lex: кутшӧм
+ stem: кутшӧмкӧ.
+ gramm: PRO
+ paradigm: connect_adjectives
+ trans_ru: какой
+
+-lexeme
+ lex: код
+ stem: код.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: кто
+
+-lexeme
+ lex: некод
+ stem: некод.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: никто
+
+-lexeme
+ lex: код
+ stem: кодкӧ.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: кто-то
+
+-lexeme
+ lex: код
+ stem: кодсюрӧ.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: кое-кто
+
+-lexeme
+ lex: мый
+ stem: мый.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: что
+
+-lexeme
+ lex: мый
+ stem: мыйкӧ.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: что-то
+
+-lexeme
+ lex: мый
+ stem: мыйсюрӧ.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: кое-что
+
+-lexeme
+ lex: нинӧм
+ stem: нинӧм.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: ничто
+
+-lexeme
+ lex: код
+ stem: коді.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: кто
+
+-lexeme
+ lex: кымын
+ stem: кымын.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: сколько
+
+-lexeme
+ lex: мыйта
+ stem: мыйта.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: сколько 
+
+-lexeme
+ lex: сэтшӧм
+ stem: сэтшӧм.
+ gramm: PRO
+ paradigm: connect_adjectives
+ trans_ru: такой
+
+-lexeme
+ lex: татшӧм
+ stem: татшӧм.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: такой
+
+-lexeme
+ lex: та
+ stem: та.
+ gramm: PRO,sg,3sg
+ paradigm: Noun-num-vowel
+ trans_ru: тот
+
+-lexeme
+ lex: та
+ stem: тайӧ.
+ gramm: PRO,sg,3sg
+ paradigm: Noun-num-vowel
+ trans_ru: тот
+
+-lexeme
+ lex: та
+ stem: тайӧс.
+ gramm: PRO,acc,sg
+ paradigm: Empty
+ trans_ru: это
+
+-lexeme
+ lex: быд
+ stem: быд.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: каждый
+
+-lexeme
+ lex: быдӧн
+ stem: быдӧн.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: каждый
+
+-lexeme
+ lex: став
+ stem: став.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: все, всё
+
+-lexeme
+ lex: став
+ stem: ставыс.
+ gramm: PRO,3sg
+ paradigm: Noun-num-consonant
+ trans_ru: все, всё
+
+-lexeme
+ lex: став
+ stem: ставсӧ.
+ gramm: PRO,3sg
+ paradigm: Noun-num-consonant
+ trans_ru: все, всё
+
+-lexeme
+ lex: ставным
+ stem: ставным.
+ gramm: PRO,1pl
+ paradigm: Noun-num-consonant
+ trans_ru: все [мы]
+
+-lexeme
+ lex: ставныд
+ stem: ставныд.
+ gramm: PRO,2pl
+ paradigm: Noun-num-consonant
+ trans_ru: все [вы]
+
+-lexeme
+ lex: ставныс
+ stem: ставныс.
+ gramm: PRO,3sg
+ paradigm: Noun-num-consonant
+ trans_ru: все [они]
+
+-lexeme
+ lex: ас
+ stem: ас.
+ gramm: PRO,nom,sg
+ paradigm: Empty
+ trans_ru: свой, себя
+
+-lexeme
+ lex: ас
+ stem: ачым.
+ gramm: PRO,nom,sg
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачыс.
+ gramm: PRO,3sg,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачыд.
+ gramm: PRO,2sg,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслас.
+ gramm: PRO,3sg,gen
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслам.
+ gramm: PRO,1sg,gen
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслад.
+ gramm: PRO,2sg,gen
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассьыс.
+ gramm: PRO,3sg,abl
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассьым.
+ gramm: PRO,1sg,abl
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассьыд.
+ gramm: PRO,2sg,abl
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслыс.
+ gramm: PRO,3sg,dat
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслым.
+ gramm: PRO,1sg,dat
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслыд.
+ gramm: PRO,2sg,dat
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аснас.
+ gramm: PRO,3sg,ins
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачымӧн.
+ gramm: PRO,1sg,ins
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аснад.
+ gramm: PRO,2sg,ins
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аскӧдыс.
+ gramm: PRO,3sg,com
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аскӧдым.
+ gramm: PRO,1sg,com
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аскӧдыд.
+ gramm: PRO,2sg,com
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьсӧ.
+ gramm: PRO,3sg,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачмӧс.
+ gramm: PRO,1sg,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтӧ.
+ gramm: PRO,2sg,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьнысӧ.
+ gramm: PRO,3pl,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьнымӧс.
+ gramm: PRO,1pl,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьнытӧ.
+ gramm: PRO,2pl,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьмес.
+ gramm: PRO,1pl,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьныс.
+ gramm: PRO,3pl,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьным.
+ gramm: PRO,1pl,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьныд.
+ gramm: PRO,2pl,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланыс.
+ gramm: PRO,3pl,gen
+ paradigm: Noun-num-vowel
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланым.
+ gramm: PRO,1pl,gen
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланыд.
+ gramm: PRO,2pl,gen
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассьыныс.
+ gramm: PRO,3pl,abl
+ paradigm: Noun-num-vowel
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассьыным.
+ gramm: PRO,1pl,abl
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассьыныд.
+ gramm: PRO,2pl,abl
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслыныс.
+ gramm: PRO,3pl,dat
+ paradigm: Noun-num-vowel
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслыным.
+ gramm: PRO,1pl,dat
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслыныд.
+ gramm: PRO,2pl,dat
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аскӧдныд.
+ gramm: PRO,2pl,com
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астӧгныд.
+ gramm: PRO,2pl,car
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассяньныд.
+ gramm: PRO,2pl,erg
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланьныд.
+ gramm: PRO,2pl,app
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ӧта-мӧд
+ stem: ӧта-мӧд.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: друг друга
+
+-lexeme
+ lex: мӧда-мӧд
+ stem: мӧда-мӧд.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: друг друга
+
+-lexeme
+ lex: кыдз
+ stem: кыдзи.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: как, каким образом
+
+-lexeme
+ lex: кыдз
+ stem: кыдз.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: как, каким образом
+
+-lexeme
+ lex: тан
+ stem: тан.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: здесь, тут
+
+-lexeme
+ lex: тан
+ stem: тані.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: здесь, тут
+
+-lexeme
+ lex: сэтчӧ
+ stem: сэтчӧ.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: туда
+
+-lexeme
+ lex: татчӧ
+ stem: татчӧ.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: сюда
+
+-lexeme
+ lex: сэні
+ stem: сэні.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: там
+
+-lexeme
+ lex: кӧн
+ stem: кӧн.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: где
+
+-lexeme
+ lex: кутшӧм-сэтшӧм
+ stem: кутшӧм-сэтшӧм.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: какой ещё, что за
+
+-lexeme
+ lex: немтор
+ stem: немтор.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: ничего
+
+-lexeme
+ lex: немысь-немтор
+ stem: немысь-немтор.
+ gramm: RPO
+ paradigm: Noun-num-consonant
+ trans_ru: совсем ничего
+
+-lexeme
+ lex: ӧтитӧг
+ stem: ӧтитӧг.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: поголовно, все до одного
+
+-lexeme
+ lex: ӧтгудыр
+ stem: ӧтгудыр.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: все вместе
+
+-lexeme
+ lex: быдсӧн
+ stem: быдсӧн.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: каждый
+
+-lexeme
+ lex: кин
+ stem: кин.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: кто
+
+-lexeme
+ lex: кутшӧми
+ stem: кутшӧми.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: какой, каков
+
+-lexeme
+ lex: кыдз-мый
+ stem: кыдз-мый.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: как, каким образом
+
+-lexeme
+ lex: кытчӧ
+ stem: кытчӧ.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: куда
+
+-lexeme
+ lex: кӧні
+ stem: кӧні.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: где
+
+-lexeme
+ lex: мыйда
+ stem: мыйда.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: сколько 
+
+-lexeme
+ lex: мыйдакӧ
+ stem: мыйдакӧ.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: сколько-нибудь, сколько-то
+
+-lexeme
+ lex: мыйтӧм
+ stem: мыйтӧм.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: сколько 
+
+-lexeme
+ lex: мыйтӧмкӧ
+ stem: мыйтӧмкӧ.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: неопр. сколько-нибудь
+
+-lexeme
+ lex: мыйя
+ stem: мыйя.
+ gramm: PRO
+ paradigm: Noun-num-vowel
+ trans_ru: что-то
+
+-lexeme
+ lex: некин
+ stem: некин.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: никто
+
+-lexeme
+ lex: некодарысь
+ stem: некодарысь.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: ниоткуда
+
+-lexeme
+ lex: сэн
+ stem: сэн.
+ gramm: PRO
+ paradigm: Empty 
+ trans_ru: там
+
+-lexeme
+ lex: сэтісянь
+ stem: сэтісянь.
+ gramm: PRO,el
+ paradigm: Empty
+ trans_ru: оттуда, с того места
+
+-lexeme
+ lex: сэтчаньӧ
+ stem: сэтчаньӧ.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: туда, в том направлении
+
+-lexeme
+ lex: сэтысь
+ stem: сэтысь.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: оттуда
+
+-lexeme
+ lex: сэтысянь
+ stem: сэтысянь.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: оттуда, с того места
+
+-lexeme
+ lex: сэтӧн
+ stem: сэтӧн.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: там
+
+-lexeme
+ lex: тані
+ stem: тані.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: здесь, тут
+
+-lexeme
+ lex: тась
+ stem: тась.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: отсюда
+
+-lexeme
+ lex: татысянь
+ stem: татысянь.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: отсюда
+
+-lexeme
+ lex: татӧн, татӧні
+ stem: татӧн, татӧні.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: здесь, тут
+
+-lexeme
+ lex: эстӧні
+ stem: эстӧні.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: там
+
+-lexeme
+ lex: этійӧ
+ stem: этійӧ.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: этот
+
+-lexeme
+ lex: этатысь
+ stem: этатысь.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: отсюда
+
+-lexeme
+ lex: этатысянь
+ stem: этатысянь.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: отсюда
+
+-lexeme
+ lex: ӧткымын
+ stem: ӧткымын.
+ gramm: PRO
+ paradigm: Noun-caseposs
+ trans_ru: некоторые, кое-кто
+
