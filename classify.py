@@ -8,16 +8,16 @@ import os
 
 
 def processing(pos): 
-    workdata = pd.read_csv('dicts/' + pos + '_crossdict_ss.csv', header=None, encoding='utf-8-sig', delimiter='\t')
+    workdata = pd.read_csv('dicts/'+pos+'_crossdict_ss.csv', header=None, encoding='utf-8-sig', delimiter='\t')
     X_work =  workdata._get_numeric_data()
 
     try:
-        model_name = pos+'-model.save'
+        model_name = 'models/'+pos+'-model.save'
         log_reg_work(X_work, model_name, pos)        
         print('Using model:', model_name)
         
     except FileNotFoundError:
-        model_name = log_reg_train(part_of_speech)        
+        model_name = 'models/'+log_reg_train(part_of_speech)        
         log_reg_work(X_work, model_name, part_of_speech)        
         print('Create model:', model_name)
 
@@ -29,7 +29,7 @@ def log_reg_train(pos):
     X_train, X_test, y_train, y_test = model_selection.train_test_split(X, y, test_size=0.25)
     
     model_lr = LogisticRegression()
-    model_lr.fit(X_train,y_train)
+    model_lr.fit(X_train, y_train)
     
     y_test_predict_proba = model_lr.predict_proba(X_test)
     y_test_predict = model_lr.predict(X_test)
